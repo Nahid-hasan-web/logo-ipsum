@@ -1,10 +1,11 @@
 import React from 'react'
+import Banner from '../Components/Banner'
 
 const Home = () => {
   return (
       <>
-          <div className='w-full h-screen bg-[#FFF7CF]'>
-              
+          <div className='w-full '>
+              <Banner />
         </div>
       </>
   )

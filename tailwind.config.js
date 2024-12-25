@@ -11,7 +11,8 @@ export default {
     },
     fontFamily: {
       
-      'abeezee':["ABeeZee", "serif"]
+      'abeezee':["ABeeZee", "serif"] ,
+      'bricolage':["Bricolage Grotesque", "serif"]
     } 
   },
   plugins: [],
